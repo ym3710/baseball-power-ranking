@@ -58,8 +58,23 @@
 - 東海大菅生: [baseball.yahoo.co.jp/hsb/teams/20114](https://baseball.yahoo.co.jp/hsb/teams/20114/top)
 - 済美: [baseball.yahoo.co.jp/hsb/teams/20040](https://baseball.yahoo.co.jp/hsb/teams/20040/top)
 - 広島商: [baseball.yahoo.co.jp/hsb/teams/20036](https://baseball.yahoo.co.jp/hsb/teams/20036/top)
+- 松山商業: [baseball.yahoo.co.jp/hsb/teams/19525](https://baseball.yahoo.co.jp/hsb/teams/19525/top)
+- 浦和学院: [baseball.yahoo.co.jp/hsb/teams/20012](https://baseball.yahoo.co.jp/hsb/teams/20012/top)
+- 常総学院: [baseball.yahoo.co.jp/hsb/teams/20053](https://baseball.yahoo.co.jp/hsb/teams/20053/top)
+- 天理: [baseball.yahoo.co.jp/hsb/teams/20031](https://baseball.yahoo.co.jp/hsb/teams/20031/top)
+- 敦賀気比: [baseball.yahoo.co.jp/hsb/teams/20194](https://baseball.yahoo.co.jp/hsb/teams/20194/top)
+- 作新学院: [baseball.yahoo.co.jp/hsb/teams/20232](https://baseball.yahoo.co.jp/hsb/teams/20232/top)
+- 高松商業: [baseball.yahoo.co.jp/hsb/teams/20377](https://baseball.yahoo.co.jp/hsb/teams/20377/top)
+- 桐蔭学園: [baseball.yahoo.co.jp/hsb/teams/20129](https://baseball.yahoo.co.jp/hsb/teams/20129/top)
+- 大体大浪商: [baseball.yahoo.co.jp/hsb/teams/19299](https://baseball.yahoo.co.jp/hsb/teams/19299/top)
+- 秋田商業: [baseball.yahoo.co.jp/hsb/teams/20006](https://baseball.yahoo.co.jp/hsb/teams/20006/top)
+- 銚子商業: [baseball.yahoo.co.jp/hsb/teams/20081](https://baseball.yahoo.co.jp/hsb/teams/20081/top)
+- 静岡商業: [baseball.yahoo.co.jp/hsb/teams/20143](https://baseball.yahoo.co.jp/hsb/teams/20143/top)
+- 県岐阜商: [baseball.yahoo.co.jp/hsb/teams/20023](https://baseball.yahoo.co.jp/hsb/teams/20023/top)
+- 倉敷商: [baseball.yahoo.co.jp/hsb/teams/20210](https://baseball.yahoo.co.jp/hsb/teams/20210/top)
+- 二松学舎大付: [baseball.yahoo.co.jp/hsb/teams/20354](https://baseball.yahoo.co.jp/hsb/teams/20354/top)
 
-PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている。
+PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている（2回探したが両方とも該当ページなし）。
 
 合計値(出場・優勝・勝利)はデータに直接持たず、`index.html`側で春+夏の数値から毎回計算している（同じ値を2箇所に書くとズレの原因になるため）。
 
