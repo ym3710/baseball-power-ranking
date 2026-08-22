@@ -48,6 +48,16 @@
 - 沖縄尚学: [baseball.yahoo.co.jp/hsb/teams/20069](https://baseball.yahoo.co.jp/hsb/teams/20069/top)
 - 佐野日大: [baseball.yahoo.co.jp/hsb/teams/20155](https://baseball.yahoo.co.jp/hsb/teams/20155/top)
 - 健大高崎: [baseball.yahoo.co.jp/hsb/teams/20285](https://baseball.yahoo.co.jp/hsb/teams/20285/top)
+- 京都国際: [baseball.yahoo.co.jp/hsb/teams/20425](https://baseball.yahoo.co.jp/hsb/teams/20425/top)
+- 聖光学院: [baseball.yahoo.co.jp/hsb/teams/20008](https://baseball.yahoo.co.jp/hsb/teams/20008/top)
+- 青森山田: [baseball.yahoo.co.jp/hsb/teams/20003](https://baseball.yahoo.co.jp/hsb/teams/20003/top)
+- 早稲田実業: [baseball.yahoo.co.jp/hsb/teams/20115](https://baseball.yahoo.co.jp/hsb/teams/20115/top)
+- 関東第一: [baseball.yahoo.co.jp/hsb/teams/20192](https://baseball.yahoo.co.jp/hsb/teams/20192/top)
+- 明豊: [baseball.yahoo.co.jp/hsb/teams/20046](https://baseball.yahoo.co.jp/hsb/teams/20046/top)
+- 鶴岡東: [baseball.yahoo.co.jp/hsb/teams/20282](https://baseball.yahoo.co.jp/hsb/teams/20282/top)
+- 東海大菅生: [baseball.yahoo.co.jp/hsb/teams/20114](https://baseball.yahoo.co.jp/hsb/teams/20114/top)
+- 済美: [baseball.yahoo.co.jp/hsb/teams/20040](https://baseball.yahoo.co.jp/hsb/teams/20040/top)
+- 広島商: [baseball.yahoo.co.jp/hsb/teams/20036](https://baseball.yahoo.co.jp/hsb/teams/20036/top)
 
 PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている。
 
