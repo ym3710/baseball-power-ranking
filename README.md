@@ -132,6 +132,19 @@
 - 市和歌山: [baseball.yahoo.co.jp/hsb/teams/20032](https://baseball.yahoo.co.jp/hsb/teams/20032/top)
 - 佐賀学園: [baseball.yahoo.co.jp/hsb/teams/20043](https://baseball.yahoo.co.jp/hsb/teams/20043/top)
 - 有田工: [baseball.yahoo.co.jp/hsb/teams/20328](https://baseball.yahoo.co.jp/hsb/teams/20328/top)
+- 池田(徳島): [baseball.yahoo.co.jp/hsb/teams/20341](https://baseball.yahoo.co.jp/hsb/teams/20341/top)
+- 鳴門: [baseball.yahoo.co.jp/hsb/teams/20266](https://baseball.yahoo.co.jp/hsb/teams/20266/top)
+- 松山東: [baseball.yahoo.co.jp/hsb/teams/20355](https://baseball.yahoo.co.jp/hsb/teams/20355/top)
+- 三本松: [baseball.yahoo.co.jp/hsb/teams/20075](https://baseball.yahoo.co.jp/hsb/teams/20075/top)
+- 倉敷工業: [baseball.yahoo.co.jp/hsb/teams/20222](https://baseball.yahoo.co.jp/hsb/teams/20222/top)
+- 関西(岡山): [baseball.yahoo.co.jp/hsb/teams/20064](https://baseball.yahoo.co.jp/hsb/teams/20064/top)
+- 岡山東商業: [baseball.yahoo.co.jp/hsb/teams/20121](https://baseball.yahoo.co.jp/hsb/teams/20121/top)
+- 広島工業: [baseball.yahoo.co.jp/hsb/teams/20309](https://baseball.yahoo.co.jp/hsb/teams/20309/top)
+- 如水館: [baseball.yahoo.co.jp/hsb/teams/20065](https://baseball.yahoo.co.jp/hsb/teams/20065/top)
+- 岩国: [baseball.yahoo.co.jp/hsb/teams/20037](https://baseball.yahoo.co.jp/hsb/teams/20037/top)
+- 下関商業: [baseball.yahoo.co.jp/hsb/teams/20197](https://baseball.yahoo.co.jp/hsb/teams/20197/top)
+- 米子東: [baseball.yahoo.co.jp/hsb/teams/19359](https://baseball.yahoo.co.jp/hsb/teams/19359/top)
+- 松江商業: [baseball.yahoo.co.jp/hsb/teams/19364](https://baseball.yahoo.co.jp/hsb/teams/19364/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
