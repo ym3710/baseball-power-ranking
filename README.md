@@ -118,6 +118,22 @@
 - 崇徳: [baseball.yahoo.co.jp/hsb/teams/19354](https://baseball.yahoo.co.jp/hsb/teams/19354/top)
 - 呉港: [baseball.yahoo.co.jp/hsb/teams/19349](https://baseball.yahoo.co.jp/hsb/teams/19349/top)
 - 高川学園: [baseball.yahoo.co.jp/hsb/teams/20383](https://baseball.yahoo.co.jp/hsb/teams/20383/top)
+- 佐久長聖: [baseball.yahoo.co.jp/hsb/teams/20313](https://baseball.yahoo.co.jp/hsb/teams/20313/top)
+- 福井商業: [baseball.yahoo.co.jp/hsb/teams/20057](https://baseball.yahoo.co.jp/hsb/teams/20057/top)
+- 富山商業: [baseball.yahoo.co.jp/hsb/teams/20019](https://baseball.yahoo.co.jp/hsb/teams/20019/top)
+- 小松大谷: [baseball.yahoo.co.jp/hsb/teams/19221](https://baseball.yahoo.co.jp/hsb/teams/19221/top)
+- 日本航空石川: [baseball.yahoo.co.jp/hsb/teams/20236](https://baseball.yahoo.co.jp/hsb/teams/20236/top)
+- 新潟明訓: [baseball.yahoo.co.jp/hsb/teams/20084](https://baseball.yahoo.co.jp/hsb/teams/20084/top)
+- 日本文理: [baseball.yahoo.co.jp/hsb/teams/20018](https://baseball.yahoo.co.jp/hsb/teams/20018/top)
+- 帝京長岡: [baseball.yahoo.co.jp/hsb/teams/21660](https://baseball.yahoo.co.jp/hsb/teams/21660/top)
+- 近江: [baseball.yahoo.co.jp/hsb/teams/20091](https://baseball.yahoo.co.jp/hsb/teams/20091/top)
+- 滋賀学園: [baseball.yahoo.co.jp/hsb/teams/20238](https://baseball.yahoo.co.jp/hsb/teams/20238/top)
+- 箕島: [baseball.yahoo.co.jp/hsb/teams/20228](https://baseball.yahoo.co.jp/hsb/teams/20228/top)
+- 市和歌山: [baseball.yahoo.co.jp/hsb/teams/20032](https://baseball.yahoo.co.jp/hsb/teams/20032/top)
+- 佐賀学園: [baseball.yahoo.co.jp/hsb/teams/20043](https://baseball.yahoo.co.jp/hsb/teams/20043/top)
+- 有田工: [baseball.yahoo.co.jp/hsb/teams/20328](https://baseball.yahoo.co.jp/hsb/teams/20328/top)
+
+（帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
 PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている（2回探したが両方とも該当ページなし）。
 
