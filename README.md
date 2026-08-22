@@ -38,6 +38,16 @@
 - 明徳義塾: [baseball.yahoo.co.jp/hsb/teams/20041](https://baseball.yahoo.co.jp/hsb/teams/20041/top)
 - 帝京: [baseball.yahoo.co.jp/hsb/teams/20145](https://baseball.yahoo.co.jp/hsb/teams/20145/top)
 - 日大三: [baseball.yahoo.co.jp/hsb/teams/20014](https://baseball.yahoo.co.jp/hsb/teams/20014/top)
+- 花巻東: [baseball.yahoo.co.jp/hsb/teams/20077](https://baseball.yahoo.co.jp/hsb/teams/20077/top)
+- 花咲徳栄: [baseball.yahoo.co.jp/hsb/teams/20249](https://baseball.yahoo.co.jp/hsb/teams/20249/top)
+- 報徳学園: [baseball.yahoo.co.jp/hsb/teams/20030](https://baseball.yahoo.co.jp/hsb/teams/20030/top)
+- 智辯学園: [baseball.yahoo.co.jp/hsb/teams/20171](https://baseball.yahoo.co.jp/hsb/teams/20171/top)
+- 神村学園: [baseball.yahoo.co.jp/hsb/teams/20070](https://baseball.yahoo.co.jp/hsb/teams/20070/top)
+- 山梨学院: [baseball.yahoo.co.jp/hsb/teams/20229](https://baseball.yahoo.co.jp/hsb/teams/20229/top)
+- 東洋大姫路: [baseball.yahoo.co.jp/hsb/teams/20141](https://baseball.yahoo.co.jp/hsb/teams/20141/top)
+- 沖縄尚学: [baseball.yahoo.co.jp/hsb/teams/20069](https://baseball.yahoo.co.jp/hsb/teams/20069/top)
+- 佐野日大: [baseball.yahoo.co.jp/hsb/teams/20155](https://baseball.yahoo.co.jp/hsb/teams/20155/top)
+- 健大高崎: [baseball.yahoo.co.jp/hsb/teams/20285](https://baseball.yahoo.co.jp/hsb/teams/20285/top)
 
 PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている。
 
@@ -58,6 +68,10 @@ PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的
 上記以外の年(優勝以外の出場)は、バーチャル高校野球の年別成績ページをベースにしているが、決勝の勝敗判定だけは上記の個別裏付けを優先している（年別ページ側の「決勝」表記に漏れ・誤りがあったため）。
 
 2026年でまだ結果が確定していない出場は含めていない。他9校の年別データは未整備（一覧では「直近10年データ準備中」と表示）。
+
+## 掲載校の範囲について
+
+理想は「甲子園に出場した全ての高校」だが、これを今までと同じ精度(1校ずつ個別に裏付けを取る)でやるには数百〜1000校規模になり非現実的。また試した結果、複雑な組み合わせ表(トーナメント表)を自動で正確に読み取ることには技術的な限界があることも分かった。そのため、直近の出場校一覧(信頼できる形式で取得可能)から頻出校・知名度のある学校を優先して追加し、50校前後を目安に、1校ずつ確実に検証しながら拡張していく方針にしている。
 
 ## 経緯
 
