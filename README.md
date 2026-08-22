@@ -103,6 +103,21 @@
 - 鹿児島実業: [baseball.yahoo.co.jp/hsb/teams/20048](https://baseball.yahoo.co.jp/hsb/teams/20048/top)
 - 樟南: [baseball.yahoo.co.jp/hsb/teams/20106](https://baseball.yahoo.co.jp/hsb/teams/20106/top)
 - 浜松商業: [baseball.yahoo.co.jp/hsb/teams/19233](https://baseball.yahoo.co.jp/hsb/teams/19233/top)
+- 金足農: [baseball.yahoo.co.jp/hsb/teams/20184](https://baseball.yahoo.co.jp/hsb/teams/20184/top)
+- 宇和島東: [baseball.yahoo.co.jp/hsb/teams/20265](https://baseball.yahoo.co.jp/hsb/teams/20265/top)
+- 今治西: [baseball.yahoo.co.jp/hsb/teams/20150](https://baseball.yahoo.co.jp/hsb/teams/20150/top)
+- 鳥取城北: [baseball.yahoo.co.jp/hsb/teams/20239](https://baseball.yahoo.co.jp/hsb/teams/20239/top)
+- 創成館: [baseball.yahoo.co.jp/hsb/teams/20323](https://baseball.yahoo.co.jp/hsb/teams/20323/top)
+- 長崎日大: [baseball.yahoo.co.jp/hsb/teams/20174](https://baseball.yahoo.co.jp/hsb/teams/20174/top)
+- 国士舘: [baseball.yahoo.co.jp/hsb/teams/20082](https://baseball.yahoo.co.jp/hsb/teams/20082/top)
+- 上宮: [baseball.yahoo.co.jp/hsb/teams/19313](https://baseball.yahoo.co.jp/hsb/teams/19313/top)
+- 近大付: [baseball.yahoo.co.jp/hsb/teams/20219](https://baseball.yahoo.co.jp/hsb/teams/20219/top)
+- 明桜: [baseball.yahoo.co.jp/hsb/teams/20231](https://baseball.yahoo.co.jp/hsb/teams/20231/top)
+- 高崎商業: [baseball.yahoo.co.jp/hsb/teams/20112](https://baseball.yahoo.co.jp/hsb/teams/20112/top)
+- 徳島商業: [baseball.yahoo.co.jp/hsb/teams/20151](https://baseball.yahoo.co.jp/hsb/teams/20151/top)
+- 崇徳: [baseball.yahoo.co.jp/hsb/teams/19354](https://baseball.yahoo.co.jp/hsb/teams/19354/top)
+- 呉港: [baseball.yahoo.co.jp/hsb/teams/19349](https://baseball.yahoo.co.jp/hsb/teams/19349/top)
+- 高川学園: [baseball.yahoo.co.jp/hsb/teams/20383](https://baseball.yahoo.co.jp/hsb/teams/20383/top)
 
 PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている（2回探したが両方とも該当ページなし）。
 
