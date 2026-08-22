@@ -73,6 +73,21 @@
 - 県岐阜商: [baseball.yahoo.co.jp/hsb/teams/20023](https://baseball.yahoo.co.jp/hsb/teams/20023/top)
 - 倉敷商: [baseball.yahoo.co.jp/hsb/teams/20210](https://baseball.yahoo.co.jp/hsb/teams/20210/top)
 - 二松学舎大付: [baseball.yahoo.co.jp/hsb/teams/20354](https://baseball.yahoo.co.jp/hsb/teams/20354/top)
+- 佐賀北: [baseball.yahoo.co.jp/hsb/teams/20187](https://baseball.yahoo.co.jp/hsb/teams/20187/top)（春の記録が未掲載のため春は0回として扱う）
+- 高知商業: [baseball.yahoo.co.jp/hsb/teams/20149](https://baseball.yahoo.co.jp/hsb/teams/20149/top)
+- 沖縄水産: [baseball.yahoo.co.jp/hsb/teams/19477](https://baseball.yahoo.co.jp/hsb/teams/19477/top)
+- 八戸学院光星: [baseball.yahoo.co.jp/hsb/teams/20109](https://baseball.yahoo.co.jp/hsb/teams/20109/top)
+- 習志野: [baseball.yahoo.co.jp/hsb/teams/20224](https://baseball.yahoo.co.jp/hsb/teams/20224/top)
+- 済々黌: [baseball.yahoo.co.jp/hsb/teams/20305](https://baseball.yahoo.co.jp/hsb/teams/20305/top)
+- 東北(宮城): [baseball.yahoo.co.jp/hsb/teams/20005](https://baseball.yahoo.co.jp/hsb/teams/20005/top)
+- 尽誠学園: [baseball.yahoo.co.jp/hsb/teams/20039](https://baseball.yahoo.co.jp/hsb/teams/20039/top)
+- 佐賀商業: [baseball.yahoo.co.jp/hsb/teams/20102](https://baseball.yahoo.co.jp/hsb/teams/20102/top)
+- 中央学院: [baseball.yahoo.co.jp/hsb/teams/20406](https://baseball.yahoo.co.jp/hsb/teams/20406/top)
+- 三重: [baseball.yahoo.co.jp/hsb/teams/20132](https://baseball.yahoo.co.jp/hsb/teams/20132/top)
+- 熊本工業: [baseball.yahoo.co.jp/hsb/teams/20045](https://baseball.yahoo.co.jp/hsb/teams/20045/top)
+- 桜美林: [baseball.yahoo.co.jp/hsb/teams/19154](https://baseball.yahoo.co.jp/hsb/teams/19154/top)
+- 日大山形: [baseball.yahoo.co.jp/hsb/teams/20136](https://baseball.yahoo.co.jp/hsb/teams/20136/top)
+- 宇部商業: [baseball.yahoo.co.jp/hsb/teams/20063](https://baseball.yahoo.co.jp/hsb/teams/20063/top)
 
 PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的に活動休止中で、上記ソースに該当ページが見当たらなかったため見送っている（2回探したが両方とも該当ページなし）。
 
@@ -96,7 +111,9 @@ PL学園（大阪）は歴史的な強豪だが、現在は野球部が実質的
 
 ## 掲載校の範囲について
 
-理想は「甲子園に出場した全ての高校」だが、これを今までと同じ精度(1校ずつ個別に裏付けを取る)でやるには数百〜1000校規模になり非現実的。また試した結果、複雑な組み合わせ表(トーナメント表)を自動で正確に読み取ることには技術的な限界があることも分かった。そのため、直近の出場校一覧(信頼できる形式で取得可能)から頻出校・知名度のある学校を優先して追加し、50校前後を目安に、1校ずつ確実に検証しながら拡張していく方針にしている。
+理想は「甲子園に出場した全ての高校」だが、これを今までと同じ精度(1校ずつ個別に裏付けを取る)でやるには数百〜1000校規模になり非現実的。また試した結果、複雑な組み合わせ表(トーナメント表)を自動で正確に読み取ることには技術的な限界があることも分かった。
+
+そのため「全国全校」を最終的な目標としつつ、1回のセッションでは現実的な数十校ずつ、知名度・頻出度の高い学校から優先して1校ずつ確実に検証しながら継続的に拡張していく方針にしている。一気に完成させるものではなく、少しずつ育てていくデータベース。
 
 ## 経緯
 
