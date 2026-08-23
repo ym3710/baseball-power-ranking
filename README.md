@@ -224,6 +224,15 @@
 - 花園: [baseball.yahoo.co.jp/hsb/teams/19291](https://baseball.yahoo.co.jp/hsb/teams/19291/top)
 - 福知山成美: [baseball.yahoo.co.jp/hsb/teams/20142](https://baseball.yahoo.co.jp/hsb/teams/20142/top)
 - 乙訓: [baseball.yahoo.co.jp/hsb/teams/20404](https://baseball.yahoo.co.jp/hsb/teams/20404/top)（夏は出場なし）
+- 米子松蔭: [baseball.yahoo.co.jp/hsb/teams/19362](https://baseball.yahoo.co.jp/hsb/teams/19362/top)
+- 開星: [baseball.yahoo.co.jp/hsb/teams/20153](https://baseball.yahoo.co.jp/hsb/teams/20153/top)
+- 岡山学芸館: [baseball.yahoo.co.jp/hsb/teams/20369](https://baseball.yahoo.co.jp/hsb/teams/20369/top)
+- 玉野光南: [baseball.yahoo.co.jp/hsb/teams/20331](https://baseball.yahoo.co.jp/hsb/teams/20331/top)
+- 沖学園: [baseball.yahoo.co.jp/hsb/teams/20410](https://baseball.yahoo.co.jp/hsb/teams/20410/top)（春の出場記録なし、未出場として0回扱い）
+- 横浜隼人: [baseball.yahoo.co.jp/hsb/teams/20244](https://baseball.yahoo.co.jp/hsb/teams/20244/top)（春の出場記録なし、未出場として0回扱い）
+- 日大藤沢: [baseball.yahoo.co.jp/hsb/teams/20154](https://baseball.yahoo.co.jp/hsb/teams/20154/top)
+- 立教新座: [baseball.yahoo.co.jp/hsb/teams/19129](https://baseball.yahoo.co.jp/hsb/teams/19129/top)
+- 帝京五: [baseball.yahoo.co.jp/hsb/teams/20393](https://baseball.yahoo.co.jp/hsb/teams/20393/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 

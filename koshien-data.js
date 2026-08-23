@@ -1202,4 +1202,58 @@ const KOSHIEN_SCHOOLS = [
     spring: { appearances: 1, championships: 0, wins: 1 },
     summer: { appearances: 0, championships: 0, wins: 0 },
   },
+  {
+    name: "米子松蔭",
+    pref: "鳥取県",
+    spring: { appearances: 2, championships: 0, wins: 0 },
+    summer: { appearances: 3, championships: 0, wins: 1 },
+  },
+  {
+    name: "開星",
+    pref: "島根県",
+    spring: { appearances: 3, championships: 0, wins: 1 },
+    summer: { appearances: 11, championships: 0, wins: 3 },
+  },
+  {
+    name: "岡山学芸館",
+    pref: "岡山県",
+    spring: { appearances: 1, championships: 0, wins: 0 },
+    summer: { appearances: 5, championships: 0, wins: 5 },
+  },
+  {
+    name: "玉野光南",
+    pref: "岡山県",
+    spring: { appearances: 2, championships: 0, wins: 2 },
+    summer: { appearances: 3, championships: 0, wins: 3 },
+  },
+  {
+    name: "沖学園",
+    pref: "福岡県",
+    spring: { appearances: 0, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 1 },
+  },
+  {
+    name: "横浜隼人",
+    pref: "神奈川県",
+    spring: { appearances: 0, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 1 },
+  },
+  {
+    name: "日大藤沢",
+    pref: "神奈川県",
+    spring: { appearances: 3, championships: 0, wins: 4 },
+    summer: { appearances: 1, championships: 0, wins: 2 },
+  },
+  {
+    name: "立教新座",
+    pref: "埼玉県",
+    spring: { appearances: 1, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 1 },
+  },
+  {
+    name: "帝京五",
+    pref: "東京都",
+    spring: { appearances: 2, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 0 },
+  },
 ];
