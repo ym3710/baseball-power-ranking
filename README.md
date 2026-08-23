@@ -214,6 +214,16 @@
 - 藤枝明誠: [baseball.yahoo.co.jp/hsb/teams/20400](https://baseball.yahoo.co.jp/hsb/teams/20400/top)（春の出場記録なし、未出場として0回扱い）
 - 東海大静岡翔洋: [baseball.yahoo.co.jp/hsb/teams/20024](https://baseball.yahoo.co.jp/hsb/teams/20024/top)
 - 岐阜第一: [baseball.yahoo.co.jp/hsb/teams/19261](https://baseball.yahoo.co.jp/hsb/teams/19261/top)
+- 社: [baseball.yahoo.co.jp/hsb/teams/20479](https://baseball.yahoo.co.jp/hsb/teams/20479/top)
+- 明石商: [baseball.yahoo.co.jp/hsb/teams/20378](https://baseball.yahoo.co.jp/hsb/teams/20378/top)
+- 神戸国際大付: [baseball.yahoo.co.jp/hsb/teams/20059](https://baseball.yahoo.co.jp/hsb/teams/20059/top)
+- 郡山(奈良): [baseball.yahoo.co.jp/hsb/teams/19087](https://baseball.yahoo.co.jp/hsb/teams/19087/top)（春の出場記録なし、未出場として0回扱い）
+- 奈良大付: [baseball.yahoo.co.jp/hsb/teams/20357](https://baseball.yahoo.co.jp/hsb/teams/20357/top)
+- 京都外大西: [baseball.yahoo.co.jp/hsb/teams/20028](https://baseball.yahoo.co.jp/hsb/teams/20028/top)
+- 東山: [baseball.yahoo.co.jp/hsb/teams/19288](https://baseball.yahoo.co.jp/hsb/teams/19288/top)
+- 花園: [baseball.yahoo.co.jp/hsb/teams/19291](https://baseball.yahoo.co.jp/hsb/teams/19291/top)
+- 福知山成美: [baseball.yahoo.co.jp/hsb/teams/20142](https://baseball.yahoo.co.jp/hsb/teams/20142/top)
+- 乙訓: [baseball.yahoo.co.jp/hsb/teams/20404](https://baseball.yahoo.co.jp/hsb/teams/20404/top)（夏は出場なし）
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
