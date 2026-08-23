@@ -162,6 +162,23 @@
 - 横浜商業: [baseball.yahoo.co.jp/hsb/teams/19165](https://baseball.yahoo.co.jp/hsb/teams/19165/top)
 - 桐光学園: [baseball.yahoo.co.jp/hsb/teams/20083](https://baseball.yahoo.co.jp/hsb/teams/20083/top)
 - 中越: [baseball.yahoo.co.jp/hsb/teams/20372](https://baseball.yahoo.co.jp/hsb/teams/20372/top)
+- 高岡商業: [baseball.yahoo.co.jp/hsb/teams/20090](https://baseball.yahoo.co.jp/hsb/teams/20090/top)
+- 金沢: [baseball.yahoo.co.jp/hsb/teams/20144](https://baseball.yahoo.co.jp/hsb/teams/20144/top)
+- 日本航空(山梨): [baseball.yahoo.co.jp/hsb/teams/20086](https://baseball.yahoo.co.jp/hsb/teams/20086/top)
+- 大垣日大: [baseball.yahoo.co.jp/hsb/teams/20163](https://baseball.yahoo.co.jp/hsb/teams/20163/top)
+- 静岡: [baseball.yahoo.co.jp/hsb/teams/20283](https://baseball.yahoo.co.jp/hsb/teams/20283/top)
+- 愛工大名電: [baseball.yahoo.co.jp/hsb/teams/20055](https://baseball.yahoo.co.jp/hsb/teams/20055/top)
+- 白山(三重): [baseball.yahoo.co.jp/hsb/teams/20411](https://baseball.yahoo.co.jp/hsb/teams/20411/top)
+- 立命館宇治: [baseball.yahoo.co.jp/hsb/teams/20258](https://baseball.yahoo.co.jp/hsb/teams/20258/top)
+- 育英(兵庫): [baseball.yahoo.co.jp/hsb/teams/20060](https://baseball.yahoo.co.jp/hsb/teams/20060/top)
+- 神港学園: [baseball.yahoo.co.jp/hsb/teams/20120](https://baseball.yahoo.co.jp/hsb/teams/20120/top)
+- 和歌山東: [baseball.yahoo.co.jp/hsb/teams/20462](https://baseball.yahoo.co.jp/hsb/teams/20462/top)（夏の出場記録なし、未出場として0回扱い）
+- 興国: [baseball.yahoo.co.jp/hsb_summer_local/entryteams/19303](https://baseball.yahoo.co.jp/hsb_summer_local/entryteams/19303)
+- 大阪学院大: [baseball.yahoo.co.jp/hsb/teams/22243](https://baseball.yahoo.co.jp/hsb/teams/22243/top)（夏は出場なし）
+- 創志学園: [baseball.yahoo.co.jp/hsb/teams/20279](https://baseball.yahoo.co.jp/hsb/teams/20279/top)
+- 瀬戸内(広島): [baseball.yahoo.co.jp/hsb/teams/20330](https://baseball.yahoo.co.jp/hsb/teams/20330/top)
+- 鳴門渦潮: [baseball.yahoo.co.jp/hsb/teams/20396](https://baseball.yahoo.co.jp/hsb/teams/20396/top)
+- 英明: [baseball.yahoo.co.jp/hsb/teams/20267](https://baseball.yahoo.co.jp/hsb/teams/20267/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
