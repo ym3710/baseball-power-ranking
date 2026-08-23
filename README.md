@@ -145,6 +145,23 @@
 - 下関商業: [baseball.yahoo.co.jp/hsb/teams/20197](https://baseball.yahoo.co.jp/hsb/teams/20197/top)
 - 米子東: [baseball.yahoo.co.jp/hsb/teams/19359](https://baseball.yahoo.co.jp/hsb/teams/19359/top)
 - 松江商業: [baseball.yahoo.co.jp/hsb/teams/19364](https://baseball.yahoo.co.jp/hsb/teams/19364/top)
+- 北照: [baseball.yahoo.co.jp/hsb/teams/20251](https://baseball.yahoo.co.jp/hsb/teams/20251/top)
+- 弘前学院聖愛: [baseball.yahoo.co.jp/hsb/teams/20326](https://baseball.yahoo.co.jp/hsb/teams/20326/top)
+- 盛岡大付: [baseball.yahoo.co.jp/hsb/teams/20004](https://baseball.yahoo.co.jp/hsb/teams/20004/top)
+- 一関学院: [baseball.yahoo.co.jp/hsb/teams/20110](https://baseball.yahoo.co.jp/hsb/teams/20110/top)
+- 学法石川: [baseball.yahoo.co.jp/hsb/teams/19083](https://baseball.yahoo.co.jp/hsb/teams/19083/top)
+- 利府: [baseball.yahoo.co.jp/hsb/teams/20221](https://baseball.yahoo.co.jp/hsb/teams/20221/top)
+- 秋田中央: [baseball.yahoo.co.jp/hsb/teams/19061](https://baseball.yahoo.co.jp/hsb/teams/19061/top)
+- 藤代: [baseball.yahoo.co.jp/hsb/teams/20078](https://baseball.yahoo.co.jp/hsb/teams/20078/top)
+- 土浦日大: [baseball.yahoo.co.jp/hsb/teams/19094](https://baseball.yahoo.co.jp/hsb/teams/19094/top)
+- 文星芸大付: [baseball.yahoo.co.jp/hsb/teams/20134](https://baseball.yahoo.co.jp/hsb/teams/20134/top)
+- 桐生第一: [baseball.yahoo.co.jp/hsb/teams/20011](https://baseball.yahoo.co.jp/hsb/teams/20011/top)
+- 春日部共栄: [baseball.yahoo.co.jp/hsb/teams/20080](https://baseball.yahoo.co.jp/hsb/teams/20080/top)
+- 拓大紅陵: [baseball.yahoo.co.jp/hsb/teams/19143](https://baseball.yahoo.co.jp/hsb/teams/19143/top)
+- 創価: [baseball.yahoo.co.jp/hsb/teams/20182](https://baseball.yahoo.co.jp/hsb/teams/20182/top)
+- 横浜商業: [baseball.yahoo.co.jp/hsb/teams/19165](https://baseball.yahoo.co.jp/hsb/teams/19165/top)
+- 桐光学園: [baseball.yahoo.co.jp/hsb/teams/20083](https://baseball.yahoo.co.jp/hsb/teams/20083/top)
+- 中越: [baseball.yahoo.co.jp/hsb/teams/20372](https://baseball.yahoo.co.jp/hsb/teams/20372/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
