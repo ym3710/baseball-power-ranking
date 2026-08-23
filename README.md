@@ -233,6 +233,10 @@
 - 日大藤沢: [baseball.yahoo.co.jp/hsb/teams/20154](https://baseball.yahoo.co.jp/hsb/teams/20154/top)
 - 立教新座: [baseball.yahoo.co.jp/hsb/teams/19129](https://baseball.yahoo.co.jp/hsb/teams/19129/top)
 - 帝京五: [baseball.yahoo.co.jp/hsb/teams/20393](https://baseball.yahoo.co.jp/hsb/teams/20393/top)
+- 東農大二: [baseball.yahoo.co.jp/hsb/teams/20233](https://baseball.yahoo.co.jp/hsb/teams/20233/top)
+- 上田西: [baseball.yahoo.co.jp/hsb/teams/20334](https://baseball.yahoo.co.jp/hsb/teams/20334/top)
+- 桐蔭(和歌山): [baseball.yahoo.co.jp/hsb/teams/20361](https://baseball.yahoo.co.jp/hsb/teams/20361/top)（神奈川の桐蔭学園とは別の学校）
+- 前橋商: [baseball.yahoo.co.jp/hsb/teams/20079](https://baseball.yahoo.co.jp/hsb/teams/20079/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 

@@ -1256,4 +1256,28 @@ const KOSHIEN_SCHOOLS = [
     spring: { appearances: 2, championships: 0, wins: 0 },
     summer: { appearances: 1, championships: 0, wins: 0 },
   },
+  {
+    name: "東農大二",
+    pref: "東京都",
+    spring: { appearances: 3, championships: 0, wins: 2 },
+    summer: { appearances: 5, championships: 0, wins: 6 },
+  },
+  {
+    name: "上田西",
+    pref: "長野県",
+    spring: { appearances: 1, championships: 0, wins: 0 },
+    summer: { appearances: 3, championships: 0, wins: 1 },
+  },
+  {
+    name: "桐蔭(和歌山)",
+    pref: "和歌山県",
+    spring: { appearances: 16, championships: 1, wins: 13 },
+    summer: { appearances: 20, championships: 2, wins: 32 },
+  },
+  {
+    name: "前橋商",
+    pref: "群馬県",
+    spring: { appearances: 3, championships: 0, wins: 0 },
+    summer: { appearances: 6, championships: 0, wins: 5 },
+  },
 ];
