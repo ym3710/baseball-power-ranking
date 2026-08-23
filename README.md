@@ -237,6 +237,14 @@
 - 上田西: [baseball.yahoo.co.jp/hsb/teams/20334](https://baseball.yahoo.co.jp/hsb/teams/20334/top)
 - 桐蔭(和歌山): [baseball.yahoo.co.jp/hsb/teams/20361](https://baseball.yahoo.co.jp/hsb/teams/20361/top)（神奈川の桐蔭学園とは別の学校）
 - 前橋商: [baseball.yahoo.co.jp/hsb/teams/20079](https://baseball.yahoo.co.jp/hsb/teams/20079/top)
+- 熊本: [baseball.yahoo.co.jp/hsb/teams/19439](https://baseball.yahoo.co.jp/hsb/teams/19439/top)（春の出場記録なし、未出場として0回扱い）
+- 大分: [baseball.yahoo.co.jp/hsb/teams/20352](https://baseball.yahoo.co.jp/hsb/teams/20352/top)
+- 高松: [baseball.yahoo.co.jp/hsb/teams/20074](https://baseball.yahoo.co.jp/hsb/teams/20074/top)（高松商業とは別の学校）
+- 岡山朝日: [baseball.yahoo.co.jp/hsb/teams/19343](https://baseball.yahoo.co.jp/hsb/teams/19343/top)（春の出場記録なし、未出場として0回扱い。夏は1921年に「岡山一中」名義で出場）
+- 彦根東: [baseball.yahoo.co.jp/hsb/teams/20227](https://baseball.yahoo.co.jp/hsb/teams/20227/top)
+- 松本深志: [baseball.yahoo.co.jp/hsb/teams/19198](https://baseball.yahoo.co.jp/hsb/teams/19198/top)（春の出場記録なし、未出場として0回扱い。夏は1947年に「県松本中」名義で出場）
+- 北海: [baseball.yahoo.co.jp/hsb/teams/20207](https://baseball.yahoo.co.jp/hsb/teams/20207/top)
+- 都城: [baseball.yahoo.co.jp/hsb/teams/19455](https://baseball.yahoo.co.jp/hsb/teams/19455/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 

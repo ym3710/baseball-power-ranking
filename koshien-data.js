@@ -1280,4 +1280,52 @@ const KOSHIEN_SCHOOLS = [
     spring: { appearances: 3, championships: 0, wins: 0 },
     summer: { appearances: 6, championships: 0, wins: 5 },
   },
+  {
+    name: "熊本",
+    pref: "熊本県",
+    spring: { appearances: 0, championships: 0, wins: 0 },
+    summer: { appearances: 2, championships: 0, wins: 1 },
+  },
+  {
+    name: "大分",
+    pref: "大分県",
+    spring: { appearances: 1, championships: 0, wins: 1 },
+    summer: { appearances: 2, championships: 0, wins: 0 },
+  },
+  {
+    name: "高松",
+    pref: "香川県",
+    spring: { appearances: 4, championships: 0, wins: 0 },
+    summer: { appearances: 4, championships: 0, wins: 5 },
+  },
+  {
+    name: "岡山朝日",
+    pref: "岡山県",
+    spring: { appearances: 0, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 2 },
+  },
+  {
+    name: "彦根東",
+    pref: "滋賀県",
+    spring: { appearances: 4, championships: 0, wins: 1 },
+    summer: { appearances: 2, championships: 0, wins: 1 },
+  },
+  {
+    name: "松本深志",
+    pref: "長野県",
+    spring: { appearances: 0, championships: 0, wins: 0 },
+    summer: { appearances: 1, championships: 0, wins: 0 },
+  },
+  {
+    name: "北海",
+    pref: "北海道",
+    spring: { appearances: 14, championships: 0, wins: 12 },
+    summer: { appearances: 41, championships: 0, wins: 23 },
+  },
+  {
+    name: "都城",
+    pref: "宮崎県",
+    spring: { appearances: 1, championships: 0, wins: 3 },
+    summer: { appearances: 8, championships: 0, wins: 7 },
+  },
 ];
