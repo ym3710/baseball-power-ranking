@@ -179,6 +179,26 @@
 - 瀬戸内(広島): [baseball.yahoo.co.jp/hsb/teams/20330](https://baseball.yahoo.co.jp/hsb/teams/20330/top)
 - 鳴門渦潮: [baseball.yahoo.co.jp/hsb/teams/20396](https://baseball.yahoo.co.jp/hsb/teams/20396/top)
 - 英明: [baseball.yahoo.co.jp/hsb/teams/20267](https://baseball.yahoo.co.jp/hsb/teams/20267/top)
+- 新田: [baseball.yahoo.co.jp/hsb/teams/20066](https://baseball.yahoo.co.jp/hsb/teams/20066/top)
+- 高知中央: [baseball.yahoo.co.jp/hsb/teams/20470](https://baseball.yahoo.co.jp/hsb/teams/20470/top)（春の出場記録なし、未出場として0回扱い）
+- 東海大福岡: [baseball.yahoo.co.jp/hsb/teams/20391](https://baseball.yahoo.co.jp/hsb/teams/20391/top)（夏は出場なし）
+- 九州国際大付: [baseball.yahoo.co.jp/hsb/teams/20242](https://baseball.yahoo.co.jp/hsb/teams/20242/top)
+- 西日本短大付: [baseball.yahoo.co.jp/hsb/teams/20042](https://baseball.yahoo.co.jp/hsb/teams/20042/top)
+- 清峰: [baseball.yahoo.co.jp/hsb/teams/20103](https://baseball.yahoo.co.jp/hsb/teams/20103/top)
+- 九州学院: [baseball.yahoo.co.jp/hsb/teams/20270](https://baseball.yahoo.co.jp/hsb/teams/20270/top)
+- 折尾愛真: [baseball.yahoo.co.jp/hsb/teams/20409](https://baseball.yahoo.co.jp/hsb/teams/20409/top)
+- 龍谷(佐賀): [baseball.yahoo.co.jp/hsb/teams/20370](https://baseball.yahoo.co.jp/hsb/teams/20370/top)
+- 柳ヶ浦: [baseball.yahoo.co.jp/hsb/teams/20068](https://baseball.yahoo.co.jp/hsb/teams/20068/top)
+- 興南: [baseball.yahoo.co.jp/hsb/teams/20172](https://baseball.yahoo.co.jp/hsb/teams/20172/top)
+- 福岡大大濠: [baseball.yahoo.co.jp/hsb/teams/20392](https://baseball.yahoo.co.jp/hsb/teams/20392/top)
+- 東筑: [baseball.yahoo.co.jp/hsb/teams/19412](https://baseball.yahoo.co.jp/hsb/teams/19412/top)
+- 延岡学園: [baseball.yahoo.co.jp/hsb/teams/20126](https://baseball.yahoo.co.jp/hsb/teams/20126/top)
+- 日南学園: [baseball.yahoo.co.jp/hsb/teams/20186](https://baseball.yahoo.co.jp/hsb/teams/20186/top)
+- 鹿児島商業: [baseball.yahoo.co.jp/hsb_spring_local/entryteams/20166](https://baseball.yahoo.co.jp/hsb_spring_local/entryteams/20166)
+- 鹿児島城西: [baseball.yahoo.co.jp/hsb/teams/20420](https://baseball.yahoo.co.jp/hsb/teams/20420/top)（夏は出場なし）
+- 豊見城: [baseball.yahoo.co.jp/hsb/teams/19474](https://baseball.yahoo.co.jp/hsb/teams/19474/top)
+- 佐賀西: [baseball.yahoo.co.jp/hsb/teams/19422](https://baseball.yahoo.co.jp/hsb/teams/19422/top)（春の出場記録なし、未出場として0回扱い）
+- 諫早: [baseball.yahoo.co.jp/hsb/teams/19432](https://baseball.yahoo.co.jp/hsb/teams/19432/top)
 
 （帝京大可児は候補に挙がったが、甲子園出場が0回だったため対象外とした。）
 
